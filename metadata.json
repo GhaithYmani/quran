@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of Al-Muhaffiz (المحفظ)",
+  "description": "تطبيق متطور لحفظ القرآن الكريم يعتمد على تقنية التكرار المخصص والذكاء الاصطناعي للمساعدة في التفسير والاختبار.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
